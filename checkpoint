@@ -1,0 +1,2 @@
+model_checkpoint_path: "compresed-data-kaz-10"
+all_model_checkpoint_paths: "compresed-data-kaz-10"
